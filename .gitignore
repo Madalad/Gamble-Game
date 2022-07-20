@@ -13,4 +13,6 @@ artifacts
 .DS_Store
 gas-report.txt
 deployments
+withdraw.js
+test.js
 
